@@ -46,4 +46,4 @@ jobs:
           graddle --version
           ant --version
           
-          echo test, and deploy your project.
+         # echo test, and deploy your project.
